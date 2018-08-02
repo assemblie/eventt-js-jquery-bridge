@@ -1,0 +1,7 @@
+{
+  "name": "eventt-jquery-bridge",
+  "version": "1.0.0",
+  "main": "src/eventt-jquery-bridge.js",
+  "author": "zoldi",
+  "license": "MIT"
+}
